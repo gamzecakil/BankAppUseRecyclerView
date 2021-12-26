@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="bank_Name">Banka Adi</string>
+    <string name="description">Açiklama</string>
+</resources>
